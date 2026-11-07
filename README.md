@@ -1,5 +1,3 @@
-# HackVilla Udaipur
-
 React + TypeScript + Vite website, with a lightweight real-time palace scene built in React Three Fiber.
 
 ## Run
